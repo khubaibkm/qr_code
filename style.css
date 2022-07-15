@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: hsl(216, 100%, 95%);
+}
+
+.attribution{
+    width: 20rem;
+    height: 30rem;
+    background-color: white;
+    position: relative;
+    top:7rem;
+    border-radius: 15px;
+}
+
+.qr{
+    width: 18rem;
+    border-radius: 12px;
+    position: relative;
+    top: 16px;
+}
+
+.p1{
+    font-size: 21px;
+    font-family: 'Outfit', sans-serif;
+    padding: 40px 30px 0px 30px;
+}
+
+.p2{
+    font-size: 14px;
+    font-family: 'Outfit', sans-serif;
+    padding: 20px 30px 0px 30px;
+    color: hsl(0, 0%, 43%);
+}
